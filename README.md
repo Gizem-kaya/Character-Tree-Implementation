@@ -1,2 +1,2 @@
 # Tree
-C Character Tree
+ A character tree algorithm implementation in C language
